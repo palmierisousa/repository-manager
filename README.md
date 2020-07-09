@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
    <img style="float: left;" src=".github/screen.png"/>
-</div>
+</p>
 
 
 # Repository Manager
