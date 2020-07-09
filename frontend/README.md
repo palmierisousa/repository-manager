@@ -1,5 +1,5 @@
 # Repository Manager
-A simple ReactJS application to list, create and delete github repositories managed by [that Node app](./backend).
+A simple ReactJS application to list, create and delete repositories managed by [that Node app](./backend).
 
 It is part of Rocketseat bootcamp.
 

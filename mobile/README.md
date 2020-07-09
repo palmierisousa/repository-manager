@@ -1,5 +1,5 @@
 # Repository Manager
-A simple React Native application to list and like github repositories managed by [that Node app](./backend).
+A simple React Native application to list and like repositories managed by [that Node app](./backend).
 
 It is part of Rocketseat bootcamp.
 
